@@ -1,5 +1,5 @@
 ### Olá! Me chamo Kelvin Sousa 
-- 🔭 Hoje eu trabalho com analise e suporte 
+- 🔭 Trabalho como full stack na AMZ|MP
 - 🌱 Atualmento estou estudando reactJS,Angular e tambem javascript 
 
 <div align="center">
